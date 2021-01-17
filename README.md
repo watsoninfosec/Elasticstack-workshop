@@ -1,27 +1,84 @@
-# Elasticstack-workshop
+# Elastic Stack Security Professionals Workshop
 
-In this workshop we are going to explorer and applicaton called, Elasticstack. This application we are going to setup a virtual machine from the ground up, install the componets needed. To be able to see how we can deploy a opensource SIEM technology for company use or LAB setup and use.
+In this workshop we are going to explorer a platform called, Elasticstack. This platform we are going to setup in a virtual machine from the ground up, install the componets needed, to be able to setup and deploy a opensource SIEM technology for company use or for individual LAB setups.
 
 # Resource Links:
 
-- Elastic Security Solution
-~~~
-https://www.elastic.co/security
-~~~
+- Elastic Security Solution General Information.
+
+> https://www.elastic.co/security
+
+- WatsonInfoSec Github Repos.
+> https://github.com/watsoninfosec/ELK-SIEM
 
 # Social Media Links
 ### Links Below:
 
-- Twitter
+- Twitter Account: **Secopsgeek** 
+> https://twitter.com/Secopsgeek
+
+- YouTube: **WatsonInfoSec**
+
+> https://www.youtube.com/channel/UChTkzU9VwalbWs_GJlILJDQ
+
+- Linktree Accounts: **Ronnie Watson** Let's connect!
+
+> https://linktr.ee/ronniewatson
+
+-----------------------
+
+## Required Software
+
+
+- Hosting Server Software 
+
+- ubuntu Server 18.04 & 20.04 LTS **#Option 3**
+
+> https://ubuntu.com/download/server
+
+- SSH Client Software: Putty - Windows Environment
+
+> https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.74-installer.msi
+
+- Linux Envrionments: SSH vis Terminal or Console Window
+
 ~~~
-https://twitter.com/Secopsgeek
-~~~
-- YouTube
-~~~
-https://www.youtube.com/channel/UChTkzU9VwalbWs_GJlILJDQ
+ssh username@192.168.0.23 
 ~~~
 
-- Linktree
+- VirtualBox for Windows or Linux Installs or Mac OS
+
+- Oracle VirtualBox 6.1.16 
+> https://www.virtualbox.org/wiki/Downloads
+
+- Oracle VirtualBox Guest Extension Pack 
+> https://download.virtualbox.org/virtualbox/6.1.16/Oracle_VM_VirtualBox_Extension_Pack-6.1.16.vbox-extpack
+
+-----------------------
+- VMware for Windows or Linux Installs
+
+- VMware Workstation 16.1.0 Player Free 
+> https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
+
+- VMware for Mac OS X
+
+> https://vmware.com/go/get-fusionplayer-key
+
+> https://my.vmware.com/web/vmware/evalcenter?p=fusion-player-personal
+-----------------------
+
+# Wazuh Setup Install
+
+- Welcome to Wazuh
+> https://documentation.wazuh.com/4.0/index.html
+
+- Virtual Machine (OVA)
+> https://packages.wazuh.com/4.x/vm/wazuh-4.0.2_1.11.0.ova
+
+- Access Web Interface:
+
 ~~~
-https://linktr.ee/ronniewatson
+URL: https://<wazuh_server_ip>
+user: admin
+password: admin
 ~~~
