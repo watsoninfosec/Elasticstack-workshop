@@ -11,7 +11,7 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 - WatsonInfoSec Github Repos.
 > https://github.com/watsoninfosec/ELK-SIEM
 
-## Elastic Setup Process Outline
+# Elastic Setup Process Outline
 
 - Step 1: Install Guide
 
@@ -24,7 +24,6 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 > https://github.com/watsoninfosec/ELK-SIEM/blob/main/Deployment-Guide/Wazuh-Guide/Setup-Guide.md
 
 # Social Media Links
-### Links Below:
 
 - Twitter Account: **Secopsgeek** 
 > https://twitter.com/Secopsgeek
@@ -39,7 +38,7 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 
 -----------------------
 
-## Required Software
+# Required Software
 
 
 - Hosting Server Software 
