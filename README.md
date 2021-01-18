@@ -4,7 +4,7 @@
 
 In this workshop we are going to explorer a platform called, Elasticstack. This platform we are going to setup in a virtual machine from the ground up, install the componets needed, to be able to setup and deploy a opensource SIEM technology for company use or for individual LAB setups.
 
-- Note: Please download the required software for your system and make sure it is setup and ready for workshop day. We will be following this outline for our process build.
+- Note: Please download the required software for your system that you want to use, and make sure it is setup and ready for workshop day. We will be following this outline for our process build.
 
 -----------------------
 
@@ -52,6 +52,7 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 ssh username@192.168.0.23 
 ~~~
 
+## VirtualBox
 - VirtualBox for Windows or Linux Installs or Mac OS
 
 - Oracle VirtualBox 6.1.16 
@@ -60,6 +61,9 @@ ssh username@192.168.0.23
 - Oracle VirtualBox Guest Extension Pack 
 > https://download.virtualbox.org/virtualbox/6.1.16/Oracle_VM_VirtualBox_Extension_Pack-6.1.16.vbox-extpack
 
+
+
+## VMware Software
 
 - VMware for Windows or Linux Installs
 
