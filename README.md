@@ -1,6 +1,12 @@
 # Elastic Stack Security Professionals Workshop
 
+-----------------------
+
 In this workshop we are going to explorer a platform called, Elasticstack. This platform we are going to setup in a virtual machine from the ground up, install the componets needed, to be able to setup and deploy a opensource SIEM technology for company use or for individual LAB setups.
+
+- Note: Please download the required software for your system and make sure it is setup and ready for workshop day. We will be following this outline for our process build.
+
+-----------------------
 
 # Resource Links:
 
@@ -10,6 +16,8 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 
 - WatsonInfoSec Github Repos.
 > https://github.com/watsoninfosec/ELK-SIEM
+
+-----------------------
 
 # Elastic Setup Process Outline
 
@@ -22,19 +30,6 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 
 - Step 3: Wazuh Guide
 > https://github.com/watsoninfosec/ELK-SIEM/blob/main/Deployment-Guide/Wazuh-Guide/Setup-Guide.md
-
-# Social Media Links
-
-- Twitter Account: **Secopsgeek** 
-> https://twitter.com/Secopsgeek
-
-- YouTube: **WatsonInfoSec**
-
-> https://www.youtube.com/channel/UChTkzU9VwalbWs_GJlILJDQ
-
-- Linktree Accounts: **Ronnie Watson** Let's connect!
-
-> https://linktr.ee/ronniewatson
 
 -----------------------
 
@@ -65,7 +60,7 @@ ssh username@192.168.0.23
 - Oracle VirtualBox Guest Extension Pack 
 > https://download.virtualbox.org/virtualbox/6.1.16/Oracle_VM_VirtualBox_Extension_Pack-6.1.16.vbox-extpack
 
------------------------
+
 - VMware for Windows or Linux Installs
 
 - VMware Workstation 16.1.0 Player Free 
@@ -93,3 +88,19 @@ URL: https://<wazuh_server_ip>
 user: admin
 password: admin
 ~~~
+-----------------------
+# Social Media Links
+
+- Twitter Account: **Secopsgeek** 
+> https://twitter.com/Secopsgeek
+
+- YouTube: **WatsonInfoSec**
+
+> https://www.youtube.com/channel/UChTkzU9VwalbWs_GJlILJDQ
+
+- Linktree Accounts: **Ronnie Watson** Let's connect!
+
+> https://linktr.ee/ronniewatson
+
+-----------------------
+
