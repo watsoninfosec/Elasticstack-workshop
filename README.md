@@ -52,7 +52,7 @@ In this workshop we are going to explorer a platform called, Elasticstack. This 
 ssh username@192.168.0.23 
 ~~~
 
-## VirtualBox
+## VirtualBox Option #1
 - VirtualBox for Windows or Linux Installs or Mac OS
 
 - Oracle VirtualBox 6.1.16 
@@ -63,14 +63,15 @@ ssh username@192.168.0.23
 
 
 
-## VMware Software
+## VMware Software Option #2
 
 - VMware for Windows or Linux Installs
 
 - VMware Workstation 16.1.0 Player Free 
 > https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1610&productId=1039&rPId=55792
 
-- VMware for Mac OS X
+## Mac OS X Only Option #3
+- VMware for Mac OS X Only **Fusionplayer**
 
 > https://vmware.com/go/get-fusionplayer-key
 
