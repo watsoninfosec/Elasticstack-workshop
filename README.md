@@ -1,6 +1,7 @@
 # Elastic Stack Security Professionals Workshop
 
------------------------
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 
 In this workshop we are going to explorer a platform called, Elasticstack. This platform we are going to setup in a virtual machine from the ground up, install the componets needed, to be able to setup and deploy a opensource SIEM technology for company use or for individual LAB setups.
 
